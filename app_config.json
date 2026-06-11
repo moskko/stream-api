@@ -5,44 +5,25 @@
   "update_notes": "• تم إضافة قنوات البث الحي للدوريات الأوروبية ودوري أبطال أوروبا بنجاح.",
   "channels": [
     {
-      "name": "beIN Sports Premium 1 (دوري أبطال أوروبا والدوري الإنجليزي)",
-      "url": "https://ovscdn.live/hls/beins1.m3u8",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/BeIN_Sports_logo.svg/256px-BeIN_Sports_logo.svg.png"
-    },
-    {
-      "name": "beIN Sports Premium 2 (الدوري الإسباني والفرنسي)",
-      "url": "https://ovscdn.live/hls/beins2.m3u8",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/BeIN_Sports_logo.svg/256px-BeIN_Sports_logo.svg.png"
-    },
-    {
-      "name": "beIN Sports Premium 3 (الدوري الإيطالي والألماني)",
-      "url": "https://ovscdn.live/hls/beins3.m3u8",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/BeIN_Sports_logo.svg/256px-BeIN_Sports_logo.svg.png"
-    },
-    {
-      "name": "SSC Sports 1 HD (الدوري السعودي وبطولات آسيا الكبرى)",
-      "url": "https://ovscdn.live/hls/ssc1.m3u8",
-      "logo": "https://example.com/ssc_sports_logo.png"
-    },
-    {
-      "name": "بي إن سبورت الإخبارية HD",
-      "url": "https://live-fta-aq.beinsports.com/ch01/index.m3u8",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/BeIN_Sports_News_logo.svg/256px-BeIN_Sports_News_logo.svg.png"
-    },
-    {
-      "name": "قناة الكأس الأولى HD (دوري أبطال آسيا والبطولات العربية)",
-      "url": "https://alkass.net/alkass/live.m3u8",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Alkass_Digital_Logo.svg/256px-Alkass_Digital_Logo.svg.png"
-    },
-    {
-      "name": "أبوظبي الرياضية Premium 1 (الدوري الإيطالي وكأس إيطاليا)",
-      "url": "https://admdn1.akamaized.net/hls/live/2004245/adsports1/master.m3u8",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Abu_Dhabi_Sports_logo.png/256px-Abu_Dhabi_Sports_logo.png"
-    },
-    {
-      "name": "الرابعة الرياضية (حقوق النقل والبث داخل العراق)",
-      "url": "https://live.alrabiaa.tv/live/playlist.m3u8",
-      "logo": "https://example.com/alrabiaa_sports_logo.png"
+        "name": "بي إن سبورت الإخبارية HD (بث رسمي)",
+        "url": "https://live-fta-aq.beinsports.com/ch01/index.m3u8",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/BeIN_Sports_News_logo.svg/256px-BeIN_Sports_News_logo.svg.png"
+      },
+      {
+        "name": "قناة الكأس الأولى HD (بث رسمي)",
+        "url": "https://alkass.net/alkass/live.m3u8",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Alkass_Digital_Logo.svg/256px-Alkass_Digital_Logo.svg.png"
+      },
+      {
+        "name": "أبوظبي الرياضية 1 (بث رسمي)",
+        "url": "https://admdn1.akamaized.net/hls/live/2004245/adsports1/master.m3u8",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Abu_Dhabi_Sports_logo.png/256px-Abu_Dhabi_Sports_logo.png"
+      },
+      {
+        "name": "الرياضية المغربية (بث رسمي)",
+        "url": "https://snrtlive-ch1.gcdn.co/live/sntv/arryadia/index.m3u8",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Arryadia_logo.svg/256px-Arryadia_logo.svg.png"
+      } tps://example.com/alrabiaa_sports_logo.png"
     }
   ]
 }
