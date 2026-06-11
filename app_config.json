@@ -4,7 +4,6 @@
   "viewers_bonus": "58.2K",
   "update_notes": "• تم إضافة قنوات البث الحي للدوريات الأوروبية ودوري أبطال أوروبا بنجاح.",
   "channels": [
-     allChannels = [
       {
         "name": "بي إن سبورت الإخبارية HD (بث رسمي)",
         "url": "https://live-fta-aq.beinsports.com/ch01/index.m3u8",
@@ -25,4 +24,4 @@
         "url": "https://snrtlive-ch1.gcdn.co/live/sntv/arryadia/index.m3u8",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Arryadia_logo.svg/256px-Arryadia_logo.svg.png"
       }
-    ];
+  
