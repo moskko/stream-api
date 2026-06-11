@@ -1,43 +1,48 @@
 {
   "version": "1.0.0",
   "isOnline": true,
-  "viewers_bonus": "23.5K",
-  "update_notes": "• تم تحديث سورس القنوات الرياضية والترفيهية الثابتة",
+  "viewers_bonus": "58.2K",
+  "update_notes": "• تم إضافة قنوات البث الحي للدوريات الأوروبية ودوري أبطال أوروبا بنجاح.",
   "channels": [
+    {
+      "name": "beIN Sports Premium 1 (دوري أبطال أوروبا والدوري الإنجليزي)",
+      "url": "https://ovscdn.live/hls/beins1.m3u8",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/BeIN_Sports_logo.svg/256px-BeIN_Sports_logo.svg.png"
+    },
+    {
+      "name": "beIN Sports Premium 2 (الدوري الإسباني والفرنسي)",
+      "url": "https://ovscdn.live/hls/beins2.m3u8",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/BeIN_Sports_logo.svg/256px-BeIN_Sports_logo.svg.png"
+    },
+    {
+      "name": "beIN Sports Premium 3 (الدوري الإيطالي والألماني)",
+      "url": "https://ovscdn.live/hls/beins3.m3u8",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/BeIN_Sports_logo.svg/256px-BeIN_Sports_logo.svg.png"
+    },
+    {
+      "name": "SSC Sports 1 HD (الدوري السعودي وبطولات آسيا الكبرى)",
+      "url": "https://ovscdn.live/hls/ssc1.m3u8",
+      "logo": "https://example.com/ssc_sports_logo.png"
+    },
     {
       "name": "بي إن سبورت الإخبارية HD",
       "url": "https://live-fta-aq.beinsports.com/ch01/index.m3u8",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bc/BeIN_Sports_logo.svg"
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/BeIN_Sports_News_logo.svg/256px-BeIN_Sports_News_logo.svg.png"
     },
     {
-      "name": "قناة الكأس الأولى HD",
+      "name": "قناة الكأس الأولى HD (دوري أبطال آسيا والبطولات العربية)",
       "url": "https://alkass.net/alkass/live.m3u8",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Alkass_Digital_Logo.png"
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Alkass_Digital_Logo.svg/256px-Alkass_Digital_Logo.svg.png"
     },
     {
-      "name": "الرابعة الرياضية (السورس العام)",
-      "url": "https://live.alrabiaa.tv/live/playlist.m3u8",
-      "logo": "https://example.com/alrabiaa.png"
-    },
-    {
-      "name": "أبوظبي الرياضية 1",
+      "name": "أبوظبي الرياضية Premium 1 (الدوري الإيطالي وكأس إيطاليا)",
       "url": "https://admdn1.akamaized.net/hls/live/2004245/adsports1/master.m3u8",
-      "logo": "https://example.com/ad_sports.png"
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Abu_Dhabi_Sports_logo.png/256px-Abu_Dhabi_Sports_logo.png"
     },
     {
-      "name": "قناة دبي الرياضية",
-      "url": "https://dmi.akamaized.net/hls/live/2004457/dubaisports/master.m3u8",
-      "logo": "https://example.com/dubai_sports.png"
-    },
-    {
-      "name": "قناة الجزيرة الإخبارية",
-      "url": "https://live-digital-k8s.ajm.me/aljazeera/hls/stream.m3u8",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Al_Jazeera_Al_Jamal.svg"
-    },
-    {
-      "name": "العربية الحدث",
-      "url": "https://live.alhadath.net/alhadath/live/playlist.m3u8",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Al_Hadath_Logo.svg"
+      "name": "الرابعة الرياضية (حقوق النقل والبث داخل العراق)",
+      "url": "https://live.alrabiaa.tv/live/playlist.m3u8",
+      "logo": "https://example.com/alrabiaa_sports_logo.png"
     }
   ]
 }
